@@ -1,0 +1,10 @@
+{
+  "incremental": true,
+  "skip_hidden": true,
+  "compression": false,
+  "preserve_structure": true,
+  "use_hash_check": true,
+  "parallel_upload": true,
+  "max_workers": 4,
+  "theme": "dark"
+}
